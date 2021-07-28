@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RG-WF_QuadrupedAnimalWithHooves.label>머리 둘인 네발짐승</RG-WF_QuadrupedAnimalWithHooves.label>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>왼쪽 폐</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>오른쪽 폐</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>왼쪽 신장</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>오른쪽 신장</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.1.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.2.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.3.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.4.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>왼쪽 앞다리</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>왼쪽 앞굽</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>오른쪽 앞다리</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>오른쪽 앞굽</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>왼쪽 뒷다리</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>왼쪽 뒷굽</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.customLabel>오른쪽 뒷다리</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.customLabel>
+  <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.parts.0.customLabel>오른쪽 뒷굽</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.parts.0.customLabel>
+
+  <RG-WF_HumanoidWithHornsAndClaws.label>발톱과 꼬리가 달린 인간형 동물</RG-WF_HumanoidWithHornsAndClaws.label>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.4.customLabel>왼쪽 폐</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.4.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.5.customLabel>오른쪽 폐</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.5.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.6.customLabel>왼쪽 신장</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.6.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.7.customLabel>오른쪽 신장</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.7.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.1.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.2.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.3.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.4.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.5.customLabel>오른쪽 뿔</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.5.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.6.customLabel>왼쪽 뿔</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.6.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.customLabel>왼쪽 arm</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.0.customLabel>왼쪽 첫째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.0.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.1.customLabel>왼쪽 둘째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.1.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.2.customLabel>왼쪽 셋째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.2.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.3.customLabel>왼쪽 넷째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.3.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.customLabel>오른쪽 arm</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.0.customLabel>오른쪽 첫째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.0.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.1.customLabel>오른쪽 둘째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.1.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.2.customLabel>오른쪽 셋째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.2.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.3.customLabel>오른쪽 넷째 발톱</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.3.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.customLabel>왼쪽 다리</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.parts.0.customLabel>왼쪽 손</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.parts.0.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.customLabel>오른쪽 다리</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.customLabel>
+  <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.parts.0.customLabel>오른쪽 손</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.parts.0.customLabel>
+
+
+</LanguageData>
