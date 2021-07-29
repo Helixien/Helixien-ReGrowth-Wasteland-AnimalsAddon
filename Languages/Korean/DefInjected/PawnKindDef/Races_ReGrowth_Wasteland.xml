@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wasteland Deer (Rimstag) -->
+
+  <RG-WF_WastelandDeer.label>변방 사슴</RG-WF_WastelandDeer.label>
+  <RG-WF_WastelandDeer.labelPlural>변방 사슴들</RG-WF_WastelandDeer.labelPlural>
+  <RG-WF_WastelandDeer.lifeStages.0.label>변방 사슴</RG-WF_WastelandDeer.lifeStages.0.label>
+  <RG-WF_WastelandDeer.lifeStages.0.labelPlural>변방 사슴들</RG-WF_WastelandDeer.lifeStages.0.labelPlural>
+  <RG-WF_WastelandDeer.lifeStages.0.labelMale>수컷 변방 사슴</RG-WF_WastelandDeer.lifeStages.0.labelMale>
+  <RG-WF_WastelandDeer.lifeStages.0.labelMalePlural>수컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.0.labelMalePlural>
+  <RG-WF_WastelandDeer.lifeStages.0.labelFemale>암컷 변방 사슴</RG-WF_WastelandDeer.lifeStages.0.labelFemale>
+  <RG-WF_WastelandDeer.lifeStages.0.labelFemalePlural>암컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.0.labelFemalePlural>
+  <RG-WF_WastelandDeer.lifeStages.1.label>변방 사슴</RG-WF_WastelandDeer.lifeStages.1.label>
+  <RG-WF_WastelandDeer.lifeStages.1.labelPlural>변방 사슴들</RG-WF_WastelandDeer.lifeStages.1.labelPlural>
+  <RG-WF_WastelandDeer.lifeStages.1.labelMale>수컷 변방 사슴</RG-WF_WastelandDeer.lifeStages.1.labelMale>
+  <RG-WF_WastelandDeer.lifeStages.1.labelMalePlural>수컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.1.labelMalePlural>
+  <RG-WF_WastelandDeer.lifeStages.1.labelFemale>암컷 변방 사슴 </RG-WF_WastelandDeer.lifeStages.1.labelFemale>
+  <RG-WF_WastelandDeer.lifeStages.1.labelFemalePlural>암컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.1.labelFemalePlural>
+  <RG-WF_WastelandDeer.lifeStages.2.label>변방 사슴</RG-WF_WastelandDeer.lifeStages.2.label>
+  <RG-WF_WastelandDeer.lifeStages.2.labelPlural>변방 사슴들</RG-WF_WastelandDeer.lifeStages.2.labelPlural>
+  <RG-WF_WastelandDeer.lifeStages.2.labelMale>수컷 변방 사슴 </RG-WF_WastelandDeer.lifeStages.2.labelMale>
+  <RG-WF_WastelandDeer.lifeStages.2.labelMalePlural>수컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.2.labelMalePlural>
+  <RG-WF_WastelandDeer.lifeStages.2.labelFemale>암컷 변방 사슴 </RG-WF_WastelandDeer.lifeStages.2.labelFemale>
+  <RG-WF_WastelandDeer.lifeStages.2.labelFemalePlural>암컷 변방 사슴들</RG-WF_WastelandDeer.lifeStages.2.labelFemalePlural>
+  <RG-WF_WastelandDeer.labelMale>수컷 변방 사슴 </RG-WF_WastelandDeer.labelMale>
+  <RG-WF_WastelandDeer.labelMalePlural>수컷 변방 사슴들</RG-WF_WastelandDeer.labelMalePlural>
+  <RG-WF_WastelandDeer.labelFemale>암컷 변방 사슴 </RG-WF_WastelandDeer.labelFemale>
+  <RG-WF_WastelandDeer.labelFemalePlural>암컷 변방 사슴들</RG-WF_WastelandDeer.labelFemalePlural>
+
+
+  <!-- Wasteland Squirrel -->
+
+  <RG-WF_WastelandSquirrel.label>돌연변이 다람쥐</RG-WF_WastelandSquirrel.label>
+  <RG-WF_WastelandSquirrel.labelPlural>돌연변이 다람쥐들</RG-WF_WastelandSquirrel.labelPlural>
+  <RG-WF_WastelandSquirrel.lifeStages.0.label>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.0.label>
+  <RG-WF_WastelandSquirrel.lifeStages.0.labelPlural>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.0.labelPlural>
+  <RG-WF_WastelandSquirrel.lifeStages.0.labelMale>수컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.0.labelMale>
+  <RG-WF_WastelandSquirrel.lifeStages.0.labelMalePlural>수컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.0.labelMalePlural>
+  <RG-WF_WastelandSquirrel.lifeStages.0.labelFemale>암컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.0.labelFemale>
+  <RG-WF_WastelandSquirrel.lifeStages.0.labelFemalePlural>암컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.0.labelFemalePlural>
+  <RG-WF_WastelandSquirrel.lifeStages.1.label>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.1.label>
+  <RG-WF_WastelandSquirrel.lifeStages.1.labelPlural>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.1.labelPlural>
+  <RG-WF_WastelandSquirrel.lifeStages.1.labelMale>수컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.1.labelMale>
+  <RG-WF_WastelandSquirrel.lifeStages.1.labelMalePlural>수컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.1.labelMalePlural>
+  <RG-WF_WastelandSquirrel.lifeStages.1.labelFemale>암컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.1.labelFemale>
+  <RG-WF_WastelandSquirrel.lifeStages.1.labelFemalePlural>암컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.1.labelFemalePlural>
+  <RG-WF_WastelandSquirrel.lifeStages.2.label>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.2.label>
+  <RG-WF_WastelandSquirrel.lifeStages.2.labelPlural>돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.2.labelPlural>
+  <RG-WF_WastelandSquirrel.lifeStages.2.labelMale>수컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.2.labelMale>
+  <RG-WF_WastelandSquirrel.lifeStages.2.labelMalePlural>수컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.2.labelMalePlural>
+  <RG-WF_WastelandSquirrel.lifeStages.2.labelFemale>암컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.lifeStages.2.labelFemale>
+  <RG-WF_WastelandSquirrel.lifeStages.2.labelFemalePlural>암컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.lifeStages.2.labelFemalePlural>
+  <RG-WF_WastelandSquirrel.labelMale>수컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.labelMale>
+  <RG-WF_WastelandSquirrel.labelMalePlural>수컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.labelMalePlural>
+  <RG-WF_WastelandSquirrel.labelFemale>암컷 돌연변이 다람쥐</RG-WF_WastelandSquirrel.labelFemale>
+  <RG-WF_WastelandSquirrel.labelFemalePlural>암컷 돌연변이 다람쥐들</RG-WF_WastelandSquirrel.labelFemalePlural>
+
+
+  <!-- Wasteland Beaver -->
+
+  <RG-WF_WastelandBeaver.label>돌연변이 비버</RG-WF_WastelandBeaver.label>
+  <RG-WF_WastelandBeaver.labelPlural>돌연변이 비버들</RG-WF_WastelandBeaver.labelPlural>
+  <RG-WF_WastelandBeaver.lifeStages.0.label>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.0.label>
+  <RG-WF_WastelandBeaver.lifeStages.0.labelPlural>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.0.labelPlural>
+  <RG-WF_WastelandBeaver.lifeStages.0.labelMale>수컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.0.labelMale>
+  <RG-WF_WastelandBeaver.lifeStages.0.labelMalePlural>수컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.0.labelMalePlural>
+  <RG-WF_WastelandBeaver.lifeStages.0.labelFemale>암컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.0.labelFemale>
+  <RG-WF_WastelandBeaver.lifeStages.0.labelFemalePlural>암컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.0.labelFemalePlural>
+  <RG-WF_WastelandBeaver.lifeStages.1.label>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.1.label>
+  <RG-WF_WastelandBeaver.lifeStages.1.labelPlural>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.1.labelPlural>
+  <RG-WF_WastelandBeaver.lifeStages.1.labelMale>수컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.1.labelMale>
+  <RG-WF_WastelandBeaver.lifeStages.1.labelMalePlural>수컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.1.labelMalePlural>
+  <RG-WF_WastelandBeaver.lifeStages.1.labelFemale>암컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.1.labelFemale>
+  <RG-WF_WastelandBeaver.lifeStages.1.labelFemalePlural>암컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.1.labelFemalePlural>
+  <RG-WF_WastelandBeaver.lifeStages.2.label>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.2.label>
+  <RG-WF_WastelandBeaver.lifeStages.2.labelPlural>돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.2.labelPlural>
+  <RG-WF_WastelandBeaver.lifeStages.2.labelMale>수컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.2.labelMale>
+  <RG-WF_WastelandBeaver.lifeStages.2.labelMalePlural>수컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.2.labelMalePlural>
+  <RG-WF_WastelandBeaver.lifeStages.2.labelFemale>암컷 돌연변이 비버</RG-WF_WastelandBeaver.lifeStages.2.labelFemale>
+  <RG-WF_WastelandBeaver.lifeStages.2.labelFemalePlural>암컷 돌연변이 비버들</RG-WF_WastelandBeaver.lifeStages.2.labelFemalePlural>
+  <RG-WF_WastelandBeaver.labelMale>수컷 돌연변이 비버</RG-WF_WastelandBeaver.labelMale>
+  <RG-WF_WastelandBeaver.labelMalePlural>수컷 돌연변이 비버들</RG-WF_WastelandBeaver.labelMalePlural>
+  <RG-WF_WastelandBeaver.labelFemale>암컷 돌연변이 비버</RG-WF_WastelandBeaver.labelFemale>
+  <RG-WF_WastelandBeaver.labelFemalePlural>암컷 돌연변이 비버들</RG-WF_WastelandBeaver.labelFemalePlural>
+
+
+  <!-- Wasteland Bear -->
+
+  <RG-WF_WastelandBear.label>야오과이</RG-WF_WastelandBear.label>
+  <RG-WF_WastelandBear.labelPlural>야오과이들</RG-WF_WastelandBear.labelPlural>
+  <RG-WF_WastelandBear.lifeStages.0.label>야오과이</RG-WF_WastelandBear.lifeStages.0.label>
+  <RG-WF_WastelandBear.lifeStages.0.labelPlural>야오과이</RG-WF_WastelandBear.lifeStages.0.labelPlural>
+  <RG-WF_WastelandBear.lifeStages.0.labelMale>수컷 야오과이</RG-WF_WastelandBear.lifeStages.0.labelMale>
+  <RG-WF_WastelandBear.lifeStages.0.labelMalePlural>수컷 야오과이들</RG-WF_WastelandBear.lifeStages.0.labelMalePlural>
+  <RG-WF_WastelandBear.lifeStages.0.labelFemale>암컷 야오과이</RG-WF_WastelandBear.lifeStages.0.labelFemale>
+  <RG-WF_WastelandBear.lifeStages.0.labelFemalePlural>암컷 야오과이들</RG-WF_WastelandBear.lifeStages.0.labelFemalePlural>
+  <RG-WF_WastelandBear.lifeStages.1.label>야오과이</RG-WF_WastelandBear.lifeStages.1.label>
+  <RG-WF_WastelandBear.lifeStages.1.labelPlural>야오과이</RG-WF_WastelandBear.lifeStages.1.labelPlural>
+  <RG-WF_WastelandBear.lifeStages.1.labelMale>수컷 야오과이</RG-WF_WastelandBear.lifeStages.1.labelMale>
+  <RG-WF_WastelandBear.lifeStages.1.labelMalePlural>수컷 야오과이들</RG-WF_WastelandBear.lifeStages.1.labelMalePlural>
+  <RG-WF_WastelandBear.lifeStages.1.labelFemale>암컷 야오과이</RG-WF_WastelandBear.lifeStages.1.labelFemale>
+  <RG-WF_WastelandBear.lifeStages.1.labelFemalePlural>암컷 야오과이들</RG-WF_WastelandBear.lifeStages.1.labelFemalePlural>
+  <RG-WF_WastelandBear.lifeStages.2.label>야오과이</RG-WF_WastelandBear.lifeStages.2.label>
+  <RG-WF_WastelandBear.lifeStages.2.labelPlural>야오과이</RG-WF_WastelandBear.lifeStages.2.labelPlural>
+  <RG-WF_WastelandBear.lifeStages.2.labelMale>수컷 야오과이</RG-WF_WastelandBear.lifeStages.2.labelMale>
+  <RG-WF_WastelandBear.lifeStages.2.labelMalePlural>수컷 야오과이들</RG-WF_WastelandBear.lifeStages.2.labelMalePlural>
+  <RG-WF_WastelandBear.lifeStages.2.labelFemale>암컷 야오과이</RG-WF_WastelandBear.lifeStages.2.labelFemale>
+  <RG-WF_WastelandBear.lifeStages.2.labelFemalePlural>암컷 야오과이들</RG-WF_WastelandBear.lifeStages.2.labelFemalePlural>
+  <RG-WF_WastelandBear.labelMale>수컷 야오과이</RG-WF_WastelandBear.labelMale>
+  <RG-WF_WastelandBear.labelMalePlural>수컷 야오과이들</RG-WF_WastelandBear.labelMalePlural>
+  <RG-WF_WastelandBear.labelFemale>암컷 야오과이</RG-WF_WastelandBear.labelFemale>
+  <RG-WF_WastelandBear.labelFemalePlural>암컷 야오과이들</RG-WF_WastelandBear.labelFemalePlural>
+
+
+  <!-- Wasteland Deathclaw -->
+
+  <RG-WF_WastelandDeathclaw.label>데스클로</RG-WF_WastelandDeathclaw.label>
+  <RG-WF_WastelandDeathclaw.labelPlural>데스클로들</RG-WF_WastelandDeathclaw.labelPlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.label>데스클로</RG-WF_WastelandDeathclaw.lifeStages.0.label>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.labelPlural>데스클로</RG-WF_WastelandDeathclaw.lifeStages.0.labelPlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.labelMale>수컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.0.labelMale>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.labelMalePlural>수컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.0.labelMalePlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.labelFemale>암컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.0.labelFemale>
+  <RG-WF_WastelandDeathclaw.lifeStages.0.labelFemalePlural>암컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.0.labelFemalePlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.label>데스클로</RG-WF_WastelandDeathclaw.lifeStages.1.label>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.labelPlural>데스클로</RG-WF_WastelandDeathclaw.lifeStages.1.labelPlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.labelMale>수컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.1.labelMale>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.labelMalePlural>수컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.1.labelMalePlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.labelFemale>암컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.1.labelFemale>
+  <RG-WF_WastelandDeathclaw.lifeStages.1.labelFemalePlural>암컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.1.labelFemalePlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.label>데스클로</RG-WF_WastelandDeathclaw.lifeStages.2.label>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.labelPlural>데스클로</RG-WF_WastelandDeathclaw.lifeStages.2.labelPlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.labelMale>수컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.2.labelMale>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.labelMalePlural>수컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.2.labelMalePlural>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.labelFemale>암컷 데스클로</RG-WF_WastelandDeathclaw.lifeStages.2.labelFemale>
+  <RG-WF_WastelandDeathclaw.lifeStages.2.labelFemalePlural>암컷 데스클로들</RG-WF_WastelandDeathclaw.lifeStages.2.labelFemalePlural>
+  <RG-WF_WastelandDeathclaw.labelMale>수컷 데스클로</RG-WF_WastelandDeathclaw.labelMale>
+  <RG-WF_WastelandDeathclaw.labelMalePlural>수컷 데스클로들</RG-WF_WastelandDeathclaw.labelMalePlural>
+  <RG-WF_WastelandDeathclaw.labelFemale>암컷 데스클로</RG-WF_WastelandDeathclaw.labelFemale>
+  <RG-WF_WastelandDeathclaw.labelFemalePlural>암컷 데스클로들</RG-WF_WastelandDeathclaw.labelFemalePlural>
+
+
+</LanguageData>

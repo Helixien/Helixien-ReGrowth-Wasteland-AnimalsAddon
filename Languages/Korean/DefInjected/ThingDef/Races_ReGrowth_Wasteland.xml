@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wasteland Deer (Rimstag) -->
+
+  <RG-WF_WastelandDeer.label>변방 사슴</RG-WF_WastelandDeer.label>
+  <RG-WF_WastelandDeer.description>중간 크기의 무리짓던 초식동물이 여러 세대 동안 독성 폐기물에 노출되어 바뀌고 변이한, 숲과 평지에 살기 좋아하는 생물입니다. 변방 사슴은 매우 빠르고 머리가 둘 있습니다.</RG-WF_WastelandDeer.description>
+  <RG-WF_WastelandDeer.tools.0.label>왼쪽 발굽</RG-WF_WastelandDeer.tools.0.label>
+  <RG-WF_WastelandDeer.tools.1.label>오른쪽 발굽</RG-WF_WastelandDeer.tools.1.label>
+  <RG-WF_WastelandDeer.tools.2.label>이빨</RG-WF_WastelandDeer.tools.2.label>
+  <RG-WF_WastelandDeer.tools.3.label>왼쪽 머리</RG-WF_WastelandDeer.tools.3.label>
+  <RG-WF_WastelandDeer.tools.4.label>오른쪽 머리</RG-WF_WastelandDeer.tools.4.label>
+
+
+  <!-- Wasteland Squirrel -->
+
+  <RG-WF_WastelandSquirrel.label>돌연변이 다람쥐</RG-WF_WastelandSquirrel.label>
+  <RG-WF_WastelandSquirrel.description>오래 독성 폐기물에 노출된 돌연변이 다람쥐는 그 털을 잃었습니다. 돌연변이 다람쥐는 그 털 없는 몸과 큰 이빨로 구분할 수 있습니다.</RG-WF_WastelandSquirrel.description>
+  <RG-WF_WastelandSquirrel.tools.0.label>왼쪽 발톱</RG-WF_WastelandSquirrel.tools.0.label>
+  <RG-WF_WastelandSquirrel.tools.1.label>오른쪽 발톱</RG-WF_WastelandSquirrel.tools.1.label>
+  <RG-WF_WastelandSquirrel.tools.3.label>머리</RG-WF_WastelandSquirrel.tools.3.label>
+
+
+  <!-- Wasteland Beaver -->
+
+  <RG-WF_WastelandBeaver.label>돌연변이 비버</RG-WF_WastelandBeaver.label>
+  <RG-WF_WastelandBeaver.description>가시로 덮인 비버 같은 생물입니다. 오랫동안 독성 폐기물에 노출되어 몸뿐만 아니라 식단도 바뀌어, 식물보다는 고기를 찾아 사냥합니다.</RG-WF_WastelandBeaver.description>
+  <RG-WF_WastelandBeaver.tools.0.label>왼쪽 발톱</RG-WF_WastelandBeaver.tools.0.label>
+  <RG-WF_WastelandBeaver.tools.1.label>오른쪽 발톱</RG-WF_WastelandBeaver.tools.1.label>
+  <RG-WF_WastelandBeaver.tools.2.label>가시</RG-WF_WastelandBeaver.tools.2.label>
+  <RG-WF_WastelandBeaver.tools.4.label>머리</RG-WF_WastelandBeaver.tools.4.label>
+
+
+  <!-- Wasteland Bear -->
+
+  <RG-WF_WastelandBear.label>야오과이</RG-WF_WastelandBear.label>
+  <RG-WF_WastelandBear.description>독성 폐기물에 노출되어 바뀐 큰 잡식성 포유류입니다. 털을 거의 잃었기 때문에 추운 기후에서는 더 이상 살 수 없습니다.\n\n보통 식단은 물고기, 열매, 꿀, 죽은 고기이지만, 이 그리즐리는 엄청난 힘과 치명적인 발톱으로 산 사냥감을 죽일 수 있습니다. 그렇게 육중한 동물 치고는 깜짝 놀랄 만큼 빠릅니다.</RG-WF_WastelandBear.description>
+
+
+  <!-- Wasteland Deathclaw -->
+
+  <RG-WF_WastelandDeathclaw.label>데스클로</RG-WF_WastelandDeathclaw.label>
+  <RG-WF_WastelandDeathclaw.description>데스클로는 이구아나에서 변이한 거대한 정점의 포식자로, 황무지를 계속 돌아다니며 사냥감을 찾습니다. 데스클로는 엄청나게 빠르고 강력하며 똑똑합니다.</RG-WF_WastelandDeathclaw.description>
+  <RG-WF_WastelandDeathclaw.tools.0.label>뿔</RG-WF_WastelandDeathclaw.tools.0.label>
+  <RG-WF_WastelandDeathclaw.tools.1.label>왼쪽 발톱</RG-WF_WastelandDeathclaw.tools.1.label>
+  <RG-WF_WastelandDeathclaw.tools.2.label>오른쪽 발톱</RG-WF_WastelandDeathclaw.tools.2.label>
+  <RG-WF_WastelandDeathclaw.tools.4.label>머리</RG-WF_WastelandDeathclaw.tools.4.label>
+
+
+</LanguageData>
